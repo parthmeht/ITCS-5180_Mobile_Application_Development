@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My Profile</string>
+    <string name="imageViewDes">Profile Avatar</string>
+    <string name="button_save">Save</string>
+    <string name="first_name_hint">First Name</string>
+    <string name="last_name_hint">Last Name</string>
+    <string name="student_id_hint">Student ID</string>
+    <string name="text_view_department">Department:</string>
+    <string name="cs">CS</string>
+    <string name="sis">SIS</string>
+    <string name="bio">BIO</string>
+    <string name="other">Other</string>
+    <string name="avatar">AVATAR</string>
+    <string name="name">Name:</string>
+    <string name="student_id">Student ID:</string>
+    <string name="edit">Edit</string>
+    <string name="select_avatar">Select Avatar</string>
+    <string name="display_profile">Display My Profile</string>
+</resources>

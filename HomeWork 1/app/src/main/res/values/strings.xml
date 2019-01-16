@@ -1,0 +1,31 @@
+<!--
+  ~ Copyright (c)
+  ~ @Group 5
+  ~ Kshitij Shah - 801077782
+  ~ Parth Mehta - 801057625
+  -->
+
+<resources>
+    <string name="app_name">BAC Calculator</string>
+    <string name="weightLabel">Weight (lbs)</string>
+    <string name="weight_text_hint">Enter Weight</string>
+    <string name="genderLabel">Gender  </string>
+    <string name="male">M</string>
+    <string name="female">F</string>
+    <string name="buttonSave">Save</string>
+    <string name="drinkSizeLabel">Drink Size</string>
+    <string name="oz1">1 oz</string>
+    <string name="oz5">5 oz</string>
+    <string name="oz12">12 oz</string>
+    <string name="alcoholPercentLabel">Alcohol %</string>
+    <string name="buttonAddDrink">Add Drink</string>
+    <string name="buttonReset">Reset</string>
+    <string name="bacLevelText">BAC Level :</string>
+    <string name="status">Your Status:</string>
+    <string name="statusValueCareful">Be Careful...</string>
+    <string name="statusValueSafe">You\'re safe</string>
+    <string name="statusValueOver">Over the limit!</string>
+    <string name="bacLevelValue">0.00</string>
+    <string name="alcoholPercentValue">5%</string>
+    <string name="app_icon">App_icon</string>
+</resources>

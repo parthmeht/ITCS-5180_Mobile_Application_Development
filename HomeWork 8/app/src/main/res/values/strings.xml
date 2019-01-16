@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Trips</string>
+    <string name="trip_list">Trip List</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="add_trip">Add Trip</string>
+    <string name="trip_details">Trip Details</string>
+    <string name="trip_name">Trip Name</string>
+    <string name="destination_city">Destination City</string>
+    <string name="KEY">AIzaSyDKcd6-6RNYD31tfn7GcP0tcMSSdduB4Kw</string>
+    <string name="add_places">Add Places:</string>
+    <string name="view_trips">View Trip</string>
+    <string name="add_trips">Add Trip</string>
+    <string name="cancel">Cancel</string>
+    <string name="rating">Rating:</string>
+    <string name="price_level">Price Level:</string>
+</resources>

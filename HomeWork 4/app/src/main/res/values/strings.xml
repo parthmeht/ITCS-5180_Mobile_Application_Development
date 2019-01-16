@@ -1,0 +1,8 @@
+<resources>
+<string name="app_name">Main Activity</string>
+<string name="go">Go</string>
+<string name="textHint">Search Keyword</string>
+<string name="imageViewDes">Image</string>
+<string name="next">Next</string>
+<string name="previous">Previous</string>
+</resources>

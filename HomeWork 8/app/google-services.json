@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "539089289353",
+    "firebase_url": "https://maps-3d1f3.firebaseio.com",
+    "project_id": "maps-3d1f3",
+    "storage_bucket": "maps-3d1f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539089289353:android:ae3fdc96c7ddf481",
+        "android_client_info": {
+          "package_name": "com.parth.android.hw8"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "539089289353-83cvei8j1a3ss7ssi8koeke3bkjieou4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKcd6-6RNYD31tfn7GcP0tcMSSdduB4Kw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

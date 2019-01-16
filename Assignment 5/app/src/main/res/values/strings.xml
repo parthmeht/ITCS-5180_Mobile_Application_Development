@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BuzzFeed Headlines</string>
+    <string name="headline">Headline</string>
+    <string name="publishedOn">Published On:</string>
+    <string name="description">Description</string>
+    <string name="image">Image</string>
+    <string name="quit">Quit</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="blank"> </string>
+</resources>

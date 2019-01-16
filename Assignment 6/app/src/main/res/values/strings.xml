@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Chat Room</string>
+    <string name="btnLogin_display">Login</string>
+    <string name="signUp">Sign Up</string>
+    <string name="fname">First Name</string>
+    <string name="lname">Last Name</string>
+    <string name="email">E mail</string>
+    <string name="choosePswd">Choose Password</string>
+    <string name="repeatPswd">Repeat Password</string>
+    <string name="btn_Cancel">Cancel</string>
+    <string name="btn_SignUp">Sign Up</string>
+    <string name="currentThrds">Current Threads</string>
+    <string name="addNewThrd">Add New Thread</string>
+    <string name="email_text">Email</string>
+    <string name="password">Password</string>
+</resources>

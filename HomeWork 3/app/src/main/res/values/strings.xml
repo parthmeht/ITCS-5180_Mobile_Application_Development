@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">My Favorite Movies</string>
+    <string name="add_movie">Add Movie</string>
+    <string name="delete_movie">Delete Movie</string>
+    <string name="edit_movie">Edit</string>
+    <string name="sort_movie_year">Show List by year</string>
+    <string name="sort_movie_rating">Show List by rating</string>
+    <string name="name">Name</string>
+    <string name="description">Description:</string>
+    <string name="genre">Genre:</string>
+    <string name="rating">Rating:</string>
+    <string name="year">Year</string>
+    <string name="imdb">IMDB</string>
+    <string name="moviesByYear">Movies by Year</string>
+    <string name="moviesByRating">Movies by Rating</string>
+    <string name="title">Title:</string>
+    <string name="year_colon">Year:</string>
+    <string name="imdb_colon">IMDB:</string>
+    <string name="finish">Finish</string>
+    <string name="first">First</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="editMovie">Edit Movie</string>
+    <string name="last">Last</string>
+    <string name="descHint"> </string>
+
+    <string-array name="movie_genre">
+        <item>Action</item>
+        <item>Animation</item>
+        <item>Comedy</item>
+        <item>Documentary</item>
+        <item>Family</item>
+        <item>Horror</item>
+        <item>Crime</item>
+        <item>Others</item>
+    </string-array>
+</resources>
